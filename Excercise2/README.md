@@ -6,5 +6,7 @@ This project showcases a simple compiler implemented in C. The primary functiona
 
 To compile the project, use the following command:
 
+Run the compiled program with ./compiler
+
 ```bash
 gcc -o compiler compiler.c
